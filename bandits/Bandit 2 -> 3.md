@@ -1,8 +1,8 @@
 # Task
 #### Read the file named `--spaces in this filename--` located in the home directory
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit2
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit2\
 Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 # Solution
 
