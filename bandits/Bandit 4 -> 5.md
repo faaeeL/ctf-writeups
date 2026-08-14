@@ -1,8 +1,8 @@
 # Task
 #### Find the only human-readable file in the **inhere** directory 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit4
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit4\
 Password: xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
 # Solution
 
@@ -40,7 +40,7 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: Motorola S-Record; binary data in text format
 ```
 
-We can see that `-file07` is in ASCII text.
+We can see that `-file07` is in ASCII text.\
 Reading file `-file07`
 ```
 bandit4@bandit:~/inhere$ cat ./-file07
