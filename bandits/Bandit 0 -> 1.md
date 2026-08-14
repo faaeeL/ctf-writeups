@@ -7,7 +7,7 @@ Password: bandit0
 # Solution
 Reading the man page for ssh command we can log into bandit01 using the following command and flag:
 
-```bash
+```
 ssh <username>@<host> -p <port>
 ```
 
