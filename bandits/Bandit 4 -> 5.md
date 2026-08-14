@@ -40,11 +40,15 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: Motorola S-Record; binary data in text format
 ```
 
-We can see that `-file07` is in ASCII text.\
+We can see that `-file07` is in ASCII text.
+
 Reading file `-file07`
 ```
 bandit4@bandit:~/inhere$ cat ./-file07
 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
 ```
 
-#### Password: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+#### Password: 
+```
+6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+```

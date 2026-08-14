@@ -7,7 +7,7 @@ Password: bandit0
 # Solution
 Reading the man page for ssh command we can log into bandit01 using the following command and flag:
 
-```
+```bash
 ssh <username>@<host> -p <port>
 ```
 
@@ -33,4 +33,7 @@ contribute to the OverTheWire community so we can keep these games free!
 The password you are looking for is: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 ```
 
-#### Password: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+#### Password: 
+```
+6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+```

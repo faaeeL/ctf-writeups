@@ -3,7 +3,7 @@
 Server: bandit.labs.overthewire.org\
 Port: 2220\
 Username: bandit2\
-Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB\
+Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 # Solution
 
 Using the command `cat --spaces in this filename--` would return the following
@@ -25,4 +25,7 @@ bandit2@bandit:~$ cat ./--spaces\ in\ this\ filename--
 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
 ```
 
-#### Password: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+#### Password: 
+```
+7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+```

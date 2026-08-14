@@ -12,4 +12,7 @@ So instead we can include the path and use the command:
 cat ./-
 ```
 
-#### Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+#### Password: 
+```
+PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+```
