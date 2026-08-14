@@ -24,8 +24,8 @@ Seeing the size of the `data.txt` we can deduct that it contain a lot of text.
 Checking the file using `cat` returns a lot of text lines.
 
 Checking the command `grep` using `tldr`
-![[]]
-![[tldr_grep.png]]
+
+![find](/pngs/tldr_find.png)
 
 Reading the text file with `grep`:
 
