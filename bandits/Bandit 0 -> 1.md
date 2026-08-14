@@ -1,8 +1,8 @@
 # Task
 #### Log into the game using SSH
-Server: bandit.labs.overthewire.org*
-Port: 2220
-Username: bandit0
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit0\
 Password: bandit0
 # Solution
 Reading the man page for ssh command we can log into bandit01 using the following command and flag:
