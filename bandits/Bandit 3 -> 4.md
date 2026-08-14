@@ -1,8 +1,8 @@
 # Task
 #### Read a hidden file in the **inhere** directory
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit3
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit3\
 Password: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
 # Solution
 Navigate to the inhere directory using the command:
