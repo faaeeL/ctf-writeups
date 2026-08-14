@@ -25,7 +25,7 @@ Checking the file using `cat` returns a lot of text lines.
 
 Checking the command `grep` using `tldr`
 
-![find](/pngs/tldr_find.png)
+![find](/pngs/tldr_grep.png)
 
 Reading the text file with `grep`:
 
