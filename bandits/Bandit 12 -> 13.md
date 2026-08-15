@@ -6,9 +6,9 @@ title: Task
 # Task
 > The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work. Use mkdir with a hard to guess directory name. Or better, use the command “mktemp -d”. Then copy the datafile using cp, and rename it using mv (read the manpages!)
 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit12
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit12\
 Password: GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 
 # Solution
@@ -48,7 +48,8 @@ bandit12@bandit:/tmp/tmp.awOZ3qGkpF$ cat data.txt
 
 Checking out the `xxd` command:
 
-![image](https://hackmd.io/_uploads/HyNwmj6Ufg.png)
+<img width="996" height="649" alt="image" src="https://github.com/user-attachments/assets/471ffc59-f569-49b9-a77a-acda3a6cb21c" />
+
 
 ```
   - Revert a plaintext hexdump back into binary, and save it as a binary file:
