@@ -1,9 +1,9 @@
 # Task
 #### The password for the next level is stored in the file data.txt, which contains base64 encoded data.
 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit10
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit10\
 Password: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 
 # Solution
@@ -25,7 +25,7 @@ VGhlIHBhc3N3b3JkIGlzIHBZZk9ZNkh3VXNEajVyTDlVdnloVTdNQ212OHZONVJvCg==
 
 The password is base64 encoded so I decided to check out the command `base64`
 
-![image](https://hackmd.io/_uploads/H1PR1i68zg.png)
+<img width="941" height="536" alt="image" src="https://github.com/user-attachments/assets/fb7d78cb-cedd-4093-a929-9fb067a4c36d" />
 
 Using the command:
 
