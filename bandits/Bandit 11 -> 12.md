@@ -7,9 +7,9 @@ title: Task
 # Task
 #### The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit11
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit11\
 Password: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
 
 # Solution
@@ -27,7 +27,7 @@ bandit11@bandit:~$ cat data.txt
 Gur cnffjbeq vf TEBbmJCB8DlA0zTewHxVQ0JPLxMvDkeA
 ```
 
-Reading the wikipedia page provided by the website ((ROT13)[https://en.wikipedia.org/wiki/ROT13]).
+Reading the wikipedia page provided by the website ([ROT13](https://en.wikipedia.org/wiki/ROT13)).
 
 I can see the command:
 
