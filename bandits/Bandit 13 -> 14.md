@@ -8,9 +8,9 @@ title: Task
 If you need help with this level: a hint file can be found in the home directory.
 Make sure to read the error messages as they are informative.
 
-Server:bandit.labs.overthewire.org
-Port: 2220
-Username: bandit13
+Server:bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit13\
 Password: qQYQiHOBPR8zR61qxYqX45quvihF2uzk
 
 # Solution
@@ -67,21 +67,23 @@ Failed to add the host to the list of known hosts (/home/bandit13/.ssh/known_hos
 
 Checking out what the command `scp` do:
 
-![image](https://hackmd.io/_uploads/S1YcFi6Ifg.png)
+<img width="921" height="740" alt="image" src="https://github.com/user-attachments/assets/cf04011d-e179-400f-b91b-7e4b7bc2aee0" />
+
 
 I can see the that command `scp` allows me to copy a file from a remote host to my local directory.
 
-Since we can't login into bandít14 while being user bandit13, we instead can copy the `sshkey.private` file to our local directory and login directly.
+Since we can't login into bandit14 while being user bandit13, we instead can copy the `sshkey.private` file to our local directory and login directly.
 
-![image](https://hackmd.io/_uploads/rJe5cjp8Mg.png)
+<img width="904" height="387" alt="image" src="https://github.com/user-attachments/assets/dc83f64a-971f-44e6-82ee-660b90cf9f2f" />
+
 
 I can see that the `sshkey.private` file is in my computer:
 
-![image](https://hackmd.io/_uploads/B1xhqo68Ml.png)
+<img width="862" height="94" alt="image" src="https://github.com/user-attachments/assets/beec5e15-824e-46e2-9978-531a16e7dcb4" />
 
 Login into user bandit14:
 
-![image](https://hackmd.io/_uploads/Sy-1jsaLzl.png)
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/b9a79df0-a1fe-44a6-8d5b-ae1247b2572e" />
 
 I couldn't login due to the key file being too open.
 
@@ -94,7 +96,7 @@ with:
 
 Trying to login again:
 
-![image](https://hackmd.io/_uploads/rJlLpjiTUMx.png)
+<img width="885" height="714" alt="image" src="https://github.com/user-attachments/assets/5b466409-86f5-4402-ad70-4a756b547fce" />
 
 Since the password is in `/etc/bandit_pass/bandit14` we can read the file now and find out what the password is:
 
