@@ -1,14 +1,10 @@
----
-title: Task
-
----
 
 # Task
 > The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
 
-Server:bandit.labs.overthewire.org
-Port: 2220
-Username: bandit14
+Server:bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit14\
 Password: aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
 
 # Solution
