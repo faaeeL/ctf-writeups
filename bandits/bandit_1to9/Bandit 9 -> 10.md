@@ -40,7 +40,7 @@ bandit9@bandit:~$ cat data.txt | grep =
 grep: (standard input): binary file matches
 ```
 
-I can't grep the character `=` because there are character encoding in the files.
+I can't grep the character `=` because there are encoded characters in the files.
 
 Checking out what the `strings` command do:
 
