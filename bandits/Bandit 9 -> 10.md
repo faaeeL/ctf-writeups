@@ -1,9 +1,9 @@
 # Task
 #### The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit9
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit9\
 Password: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
 # Solution
