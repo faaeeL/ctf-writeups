@@ -18,7 +18,7 @@ According to the wikipedia page the flag `setuid` allow users to run an executab
 ![image](/pngs/bandit19.png)
 
 
-![image](/pngs/bandit19_2)
+![image](/pngs/bandit19_2.png)
 
 So we can run this executable along with the command `cat /etc/bandit_pass/bandit20` to read the password file for bandit20
 
