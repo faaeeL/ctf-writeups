@@ -44,7 +44,8 @@ I can't grep the character `=` because there are character encoding in the files
 
 Checking out what the `strings` command do:
 
-![image](https://hackmd.io/_uploads/S1mxkspLfx.png)
+<img width="925" height="730" alt="image" src="https://github.com/user-attachments/assets/42f1fbe2-b106-40de-9bd5-70ade2f8420a" />
+
 
 Using `strings` with `grep`:
 
