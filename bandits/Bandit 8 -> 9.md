@@ -1,14 +1,10 @@
----
-title: Task
-
----
 
 # Task
 #### The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 
-Server: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit8
+Server: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit8\
 Password: 
 
 # Solution
@@ -49,7 +45,7 @@ Using hints from the website I can assume that I'll be using `sort` or `uniq`
 
 Viewing what `sort` command do:
 
-![image](https://hackmd.io/_uploads/SkvB956IGe.png)
+<img width="947" height="800" alt="image" src="https://github.com/user-attachments/assets/e0c1e4f0-3d3d-449a-b667-21f504a674ee" />
 
 
 I can see:
@@ -80,7 +76,8 @@ The command doesn't output the line with no replicas but it ignore lines which a
 
 Viewing what `uniq` do:
 
-![image](https://hackmd.io/_uploads/B1z-ncaUMl.png)
+<img width="925" height="730" alt="image" src="https://github.com/user-attachments/assets/faafb0bd-2120-4ccb-b318-4a3ad1f3c460" />
+
 
 ```
   - Display only unique lines:
