@@ -47,7 +47,7 @@ I can assume that all the folders would contain the samething, checking them one
 
 Using the hint provided by the website, checking out the `find` command using `tldr`:
 
-![[tldr_find.png]]
+![img](/pngs/tldr_find.png)
 
 with more information from [man page](https://manned.org/find)
 
