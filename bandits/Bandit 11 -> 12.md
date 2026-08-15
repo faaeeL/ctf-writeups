@@ -31,7 +31,7 @@ Reading the wikipedia page provided by the website ([ROT13](https://en.wikipedia
 
 I can see the command:
 
-```
+```bash
 $ # Map upper case A-Z to N-ZA-M and lower case a-z to n-za-m
 $ tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "Pack My Box With Five Dozen Liquor Jugs"
 Cnpx Zl Obk Jvgu Svir Qbmra Yvdhbe Whtf
