@@ -15,11 +15,11 @@ Password: 82NkymblpGBYmIXG6ZQ8YldBYstHpfUf
 
 Cloning and checking out files:
 
-![image](https://hackmd.io/_uploads/Hyka6MJDGe.png)
+![image](/pngs/bandit31_32_1.png)
 
 After doing what the files tell me to do:
 
-![image](https://hackmd.io/_uploads/HyELyX1wzx.png)
+![image](/pngs/bandit31_32_2.png)
 
 I saw that I didn't commit anything although I added the file.
 
@@ -32,7 +32,7 @@ cat .gitignore
 
 So I should add the flag `-f` to force adding it:
 
-![image](https://hackmd.io/_uploads/ryxex7Jwfe.png)
+![image](/pngs/bandit31_32_3.png)
 
 
 # Password
